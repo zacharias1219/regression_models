@@ -1,4 +1,4 @@
-#Anomaly Detection in Transactions
+# Anomaly Detection in Transactions
 
 Anomaly detection plays a crucial role in various businesses, especially those dealing with financial transactions, online activities, and security-sensitive operations.
 
